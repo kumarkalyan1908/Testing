@@ -7,7 +7,7 @@ import org.junit.Test;
 import main.java.Item;
 import main.java.SortAlgos;
 
-public class SortAlgoTest {
+public class AlgoTest {
 
 	// Task 2 Question 2 Test Sequences
 	// Bubble Sort CONDITION case

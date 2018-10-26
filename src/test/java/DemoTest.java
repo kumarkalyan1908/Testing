@@ -15,7 +15,7 @@ import main.java.Item;
 import main.java.SortAlgos;
 import main.java.SortDemoData;
 
-public class SortDemoTest{
+public class DemoTest{
 	SortDemoData data = new SortDemoData();
 
 
